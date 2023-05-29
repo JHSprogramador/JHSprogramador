@@ -8,51 +8,34 @@
 ### Lenguajes de programación
 - Python
 - JavaScript
-- C++
 - HTML/CSS
+- VisualBasic
+- SQL
 
 ### Tecnologías y frameworks
-- Django
-- React.js
-- Node.js
-- Git
+- COntrol de versiones Git
 
 ### Bases de datos
 - MySQL
-- PostgreSQL
-- MongoDB
+- MicrosoftSqlServer
 
 ### Otras habilidades técnicas
-- Desarrollo de aplicaciones web
-- Desarrollo móvil (Android)
+- Desarrollo de aplicaciones Orientadas a objetos
 - Análisis de datos
 - Automatización de tareas
+- Aprendiendo SEO
 
 ## Méritos y logros
 
-- [Año] - [Nombre del logro]
-  Descripción breve del logro y su relevancia.
+- [2021] - [ScoterRide]
+- Aplicacion de echa en visual basic para gestionar una alquiler de patinetes electricos y llevar una base de datos basada en ficheros, esto sera escalado a uso de bases de datos con Microsoft SqlServer 
 
-- [Año] - [Nombre del proyecto destacado]
-  Descripción breve del proyecto y su importancia.
-
-- [Año] - [Nombre de la competencia]
-  Resultado obtenido en la competencia y descripción de la misma.
-
-## Proyectos destacados
-
-- [Nombre del proyecto destacado]
-  Descripción breve del proyecto y su relevancia. Incluir enlaces al repositorio correspondiente si están disponibles.
-
-- [Nombre del proyecto destacado]
-  Descripción breve del proyecto y su relevancia. Incluir enlaces al repositorio correspondiente si están disponibles.
-
+- [2022] - [Nombre del proyecto destacado](https://github.com/JHSprogramador/Wordle)
 ## Contacto
 
 Si deseas colaborar en algún proyecto o simplemente conversar sobre programación y tecnología, no dudes en contactarme a través de los siguientes canales:
 
-- [Correo electrónico](mailto:tuemail@example.com)
+- [Correo electrónico](hsjuan7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tuperfil)
-- [Sitio web personal](https://www.tusitio.com)
 
 ¡Espero que esta presentación en Markdown te ayude a destacar tus conocimientos y méritos en tu perfil de GitHub! Recuerda personalizarla con tu información y enlaces relevantes.
