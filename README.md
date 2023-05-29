@@ -1,7 +1,7 @@
-# Bienvenidos a mi perfil de GitHub
+# Bienvenidos a mi portfolio
 
 ## Acerca de mí
-¡Hola! Soy [Tu Nombre], un apasionado de la programación y la tecnología. A lo largo de los años, he adquirido una amplia experiencia en varios campos y he trabajado en diversos proyectos interesantes.
+¡Hola! Soy JHSprogramador, un apasionado de la programación y la tecnología. A lo largo de los años, he adquirido una amplia experiencia en varios campos y he trabajado en diversos proyectos interesantes, y estudiando un grado superior de DAM(Desarrollo de aplciaciones multiplataforma)
 
 ## Conocimientos
 
