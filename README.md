@@ -35,7 +35,7 @@
 
 Si deseas colaborar en algún proyecto o simplemente conversar sobre programación y tecnología, no dudes en contactarme a través de los siguientes canales:
 
-- [Correo electrónico](hsjuan7@gmail.com)
+- [Correo electrónico]
+- (hsjuan7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tuperfil)
 
-¡Espero que esta presentación en Markdown te ayude a destacar tus conocimientos y méritos en tu perfil de GitHub! Recuerda personalizarla con tu información y enlaces relevantes.
