@@ -1,41 +1,22 @@
-# Bienvenidos a mi portfolio
+# Hola 👋, Soy [Tu nombre]
 
-## Acerca de mí
-¡Hola! Soy JHSprogramador, un apasionado de la programación y la tecnología. A lo largo de los años, he adquirido una amplia experiencia en varios campos y he trabajado en diversos proyectos interesantes, y estudiando un grado superior de DAM(Desarrollo de aplciaciones multiplataforma)
+## 🚀 Acerca de mí
+Soy un apasionado desarrollador Full Stack...
 
-## Conocimientos
+- 🌱 Actualmente estoy aprendiendo ... 
+- 👯 Estoy buscando colaborar en ...
+- 🤔 Estoy buscando ayuda con ...
+- 💬 Pregúntame sobre ...
+- 📫 Cómo contactarme: ...
+- 😄 Pronombres: ...
+- ⚡ Dato curioso: ...
 
-### Lenguajes de programación
-- Python
-- JavaScript
-- HTML/CSS
-- VisualBasic
-- SQL
+## 🛠️ Habilidades
 
-### Tecnologías y frameworks
-- COntrol de versiones Git
+### Lenguajes y Herramientas:
 
-### Bases de datos
-- MySQL
-- MicrosoftSqlServer
-
-### Otras habilidades técnicas
-- Desarrollo de aplicaciones Orientadas a objetos
-- Análisis de datos
-- Automatización de tareas
-- Aprendiendo SEO
-
-## Méritos y logros
-
-- [2021] - [ScoterRide]
-- Aplicacion de echa en visual basic para gestionar una alquiler de patinetes electricos y llevar una base de datos basada en ficheros, esto sera escalado a uso de bases de datos con Microsoft SqlServer 
-
-- [2022] - [Nombre del proyecto destacado](https://github.com/JHSprogramador/Wordle)
-## Contacto
-
-Si deseas colaborar en algún proyecto o simplemente conversar sobre programación y tecnología, no dudes en contactarme a través de los siguientes canales:
-
-- [Correo electrónico]
-- (hsjuan7@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tuperfil)
-
+```markdown
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
