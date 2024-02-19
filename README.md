@@ -1,24 +1,15 @@
-# Hola 👋, Soy [Tu nombre]
+# Hola 👋, Soy [Juan]
 
 ## 🚀 Acerca de mí
 Soy un apasionado desarrollador Full Stack con un Grado Superior en Aplicaciones Multiplataforma...
 
-- 🌱 Actualmente estoy aprendiendo ... 
-- 👯 Estoy buscando colaborar en ...
-- 🤔 Estoy buscando ayuda con ...
-- 💬 Pregúntame sobre Python, PHP, Java, desarrollo móvil con Java, HTML, CSS y gestión de versiones con GitHub...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
-
+- 🌱 Actualmente estoy Haciendo practicas en LAB66 
+- 📫 Cómo contactarme: Mi correo para el trabajo es "juanhidalgoseo@gmail.com"
+  
 ## 🛠️ Habilidades
-
+-No hablo de mias abilidades tecnicas, es se ve por mi trabajo en esta cuenta de github
 ### Lenguajes y Herramientas:
-
-```markdown
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+-Python 
+-Java, JavScript
+-Html5, Css, Scss, Bootstrap, Angular, symfony, Node.js, React
+-C#, Visualbasic
