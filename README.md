@@ -7,7 +7,7 @@ Soy un apasionado desarrollador Full Stack con un Grado Superior en Aplicaciones
 - 📫 Cómo contactarme: Mi correo para el trabajo es "juanhidalgoseo@gmail.com"
   
 ## 🛠️ Habilidades
--No hablo de mias abilidades tecnicas, es se ve por mi trabajo en esta cuenta de github
+-No hablo de mias abilidades tecnicas, eso se ve por mi trabajo en esta cuenta de github
 ### Lenguajes y Herramientas:
 -Python 
 -Java, JavScript
